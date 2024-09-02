@@ -1,0 +1,10 @@
+
+`	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(ˆÔéöøÿÿÿÿ
+E
+java:S3740e"/Provide the parametrized type for this generic.(ÂÎˆÃ
+E
+java:S3740~"/Provide the parametrized type for this generic.(ÂÎˆÃ
+@
+java:S1948"%Make "emf" transient or serializable.(½ÖïÌşÿÿÿÿ
+¼
+java:S1130." Remove the declaration of thrown exception 'com.micompany.login.persistence.exceptions.NonexistentEntityException' which is a subclass of 'java.lang.Exception'.(ˆÔéöøÿÿÿÿ
